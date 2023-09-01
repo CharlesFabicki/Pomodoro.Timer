@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+
+# Editor/IDE specific
+.idea/
+.vscode/
+
+# Compiled Python files
+*.pyc
+
+# Compiled bytecode
+__pycache__/
+
+# Environment specific files
+venv/
