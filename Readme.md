@@ -30,15 +30,15 @@ pip install tkinter
 ```
 ## Usage
 
-Run the following command to start the timer:
+1. Run the following command to start the timer:
 ```
 python PomodoroTimer.py
 ```
-Click the "Start" button to begin the timer.
+2. Click the "Start" button to begin the timer.
 
-The timer will alternate between focused work sessions and breaks based on the Pomodoro Technique.
+3. The timer will alternate between focused work sessions and breaks based on the Pomodoro Technique.
 
-Click the "Reset" button to reset the timer and start a new work session.
+4. Click the "Reset" button to reset the timer and start a new work session.
 
 ## License
 This project is licensed under the  MIT License
