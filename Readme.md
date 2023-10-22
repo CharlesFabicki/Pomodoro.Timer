@@ -2,6 +2,11 @@
 
 A simple Pomodoro Timer application built using Python and Tkinter.
 
+## Screenshots
+![pomodoro](https://github.com/CharlesFabicki/Pomodoro.Timer/assets/103677730/8f37e227-1193-4cf1-957b-b591eb09f9cc)
+
+![break](https://github.com/CharlesFabicki/Pomodoro.Timer/assets/103677730/1e1f1499-6d01-445a-90f0-9880be9a8fae)
+
 ## Description
 
 This Pomodoro Timer application helps you manage your work sessions and breaks effectively using the Pomodoro Technique. It alternates between focused work sessions and short/long breaks to improve productivity and maintain concentration.
@@ -34,5 +39,8 @@ Click the "Start" button to begin the timer.
 The timer will alternate between focused work sessions and breaks based on the Pomodoro Technique.
 
 Click the "Reset" button to reset the timer and start a new work session.
+
+## License
+This project is licensed under the  MIT License
 
 
