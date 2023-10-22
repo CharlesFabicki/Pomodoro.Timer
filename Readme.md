@@ -20,18 +20,15 @@ This Pomodoro Timer application helps you manage your work sessions and breaks e
 1. Clone or download the repository.
 2. Make sure you have Python (>= 3.6) installed on your system.
 3. Install the required packages using pip:
-
+```
 pip install tkinter
-python main.py
-
-
+```
 ## Usage
 
-1. Run the following command to start the timer:
-
-   ```bash
-   python main.py
-
+Run the following command to start the timer:
+```
+python PomodoroTimer.py
+```
 Click the "Start" button to begin the timer.
 
 The timer will alternate between focused work sessions and breaks based on the Pomodoro Technique.
@@ -39,4 +36,3 @@ The timer will alternate between focused work sessions and breaks based on the P
 Click the "Reset" button to reset the timer and start a new work session.
 
 
-Feel free to copy and paste the above content into your README.
